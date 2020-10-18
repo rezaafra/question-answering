@@ -6,10 +6,3 @@ CoQA contains 127,000+ questions with answers collected from 8000+ conversations
 The data could be downloaded from this link: https://stanfordnlp.github.io/coqa/
 
 
-Install the dependencies 
-
-pip install - U d2l
-pip install mxnet
-pip install torchtext
-python - m spacy download en
-
