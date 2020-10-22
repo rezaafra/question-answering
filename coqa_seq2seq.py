@@ -7,13 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1wqDJ4_teMlJC5kdcJj-oX9Oz8DNDLzvW
 """
 
-# We need to first install the following facilities
-!pip install --upgrade pip 
-!pip install -U d2l
-!pip install mxnet
-!pip install torchtext
-!python -m spacy download en
-
 # Import libraries
 import torch
 import torchtext
